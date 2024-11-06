@@ -182,7 +182,6 @@ public class GameMaster{
             fr.setLocationRelativeTo(null);
             fr.setVisible(true);
             fr.setResizable(false);
-
         }
     }
 }
